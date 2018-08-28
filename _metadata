@@ -3,5 +3,6 @@
   "friendlyName": "Quickbar Mini",
   "name": "QuickbarMini",
   "author": "zetaPRIME",
+  "priority" : -1,
   "description": "Standalone (vanilla) multiplayer friendly version of the Quickbar from zetaPRIME's StardustLib.\nSource: ^cyan;https://github.com/zetaPRIME/sb.StardustSuite^reset;"
 }
